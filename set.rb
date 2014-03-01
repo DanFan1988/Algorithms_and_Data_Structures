@@ -28,7 +28,7 @@ class Set
 				self.add(item)
 			end
 		else
-			raise (ArgumentError, "value must be a Set or Array")
+			raise "value must be a Set or Array"
 		end
 	end
 
