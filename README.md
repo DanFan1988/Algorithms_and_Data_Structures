@@ -11,8 +11,9 @@
 <ul>
 	<li><a href="https://github.com/DanFan1988/Algorithms_and_Data_Structures/blob/master/DataStructures/doubly_linked_list.rb">Doubly Linked List</a></li>
 	<li><a href="https://github.com/DanFan1988/Algorithms_and_Data_Structures/blob/master/DataStructures/tree_node.rb">Basic Tree</a></li>
-	<li><a href="https://github.com/DanFan1988/Algorithms_and_Data_Structures/blob/master/DataStructures/hash_set.rb">Hash Set</a></li>
-	<li><a href="https://github.com/DanFan1988/Algorithms_and_Data_Structures/blob/master/DataStructures/queue.rb">Queue</a></li>
-	<li><a href="https://github.com/DanFan1988/Algorithms_and_Data_Structures/blob/master/DataStructures/set.rb">Set</a></li>
 	<li><a href="https://github.com/DanFan1988/Algorithms_and_Data_Structures/blob/master/DataStructures/stack.rb">Stack</a></li>
+	<li><a href="https://github.com/DanFan1988/Algorithms_and_Data_Structures/blob/master/DataStructures/queue.rb">Queue</a></li>
+	<li><a href="https://github.com/DanFan1988/Algorithms_and_Data_Structures/blob/master/DataStructures/hash_set.rb">Hash Set</a></li>
+	<li><a href="https://github.com/DanFan1988/Algorithms_and_Data_Structures/blob/master/DataStructures/set.rb">Set</a></li>
+
 </ul>
