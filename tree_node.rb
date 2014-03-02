@@ -1,4 +1,8 @@
+require './searachble.rb'
+
 class TreeNode
+	include Searchable
+	
 	attr_accessor :parent, :children, :value
 
 	def initialize(value = nil)
