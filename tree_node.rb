@@ -1,8 +1,8 @@
-require './searachble.rb'
+require './searchable.rb'
 
 class TreeNode
 	include Searchable
-	
+
 	attr_accessor :parent, :children, :value
 
 	def initialize(value = nil)
@@ -35,5 +35,4 @@ class TreeNode
 	def descendents
 		@children.map { |child| [child, child.descendents] }.flatten
 	end
-
 end
